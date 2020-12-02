@@ -1,0 +1,50 @@
+body {
+    background-color: khaki;
+}
+
+textarea, .but {
+    width: 99%;
+    margin: 5px;
+}
+
+select {
+    margin: 5px;
+}
+
+.block {
+    display: inline-block;
+    border-radius: 5px;
+}
+ 
+input, label, select {
+    margin: 5px;
+    display: block;
+    border-radius: 5px;
+}
+
+.cash, .cc {
+    display: none;
+}
+
+.refund {
+    display: none;
+}
+
+.taxess {
+    display: none;
+}
+
+.tkt {
+    display: none;
+}
+
+
+
+.refund1, .refund2, .refund3, .refund4, .refund5, .refund6, .refund7 {
+    display: none;
+    border-radius: 5px;
+}
+textarea.refund {
+    display: inline-block;
+}
+
