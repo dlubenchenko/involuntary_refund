@@ -2,7 +2,7 @@
 
 
 function twdCallculation() {
-    const tempTwdTax = document.querySelectorAll('div')[0].children[0].value
+    const tempTwdTax = document.querySelectorAll('div')[1].children[0].value
     const twdTax = tempTwdTax
         .replace(/\n/g,' ')
         .replace(/:/g,' ')
